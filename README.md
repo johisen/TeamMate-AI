@@ -1,4 +1,4 @@
-AC# TeamMateAI
+# TeamMateAI
 
 AI Team Collaboration Platform - 原生即时通讯 × 多 AI Agent 协作平台
 
